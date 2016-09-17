@@ -1,4 +1,4 @@
-import {testSetup} from "../src/test";
+import {testSetup} from "../src/mapOfDebris";
 
 describe('test', () => {
     it('true should be true', () => {
